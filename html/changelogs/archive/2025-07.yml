@@ -195,3 +195,7 @@
   - bugfix: feline 3color taur fat vwag is fixed
   Willburd:
   - code_imp: Gamma loot global list moved to proper file
+2025-07-23:
+  Diana:
+  - bugfix: Emotes now can be used the first time someone emotes instead of *help
+      having to be used
